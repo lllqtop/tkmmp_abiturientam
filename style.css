@@ -2877,8 +2877,8 @@
 
 .div-wrapper .frame-3 {
   display: flex;
-  width: 391px;
-  height: 63px;
+  width: 401px;
+  height: 93px;
   align-items: center;
   justify-content: center;
   gap: 10px;
@@ -2893,7 +2893,7 @@
 
 .div-wrapper .frame-4 {
   display: flex;
-  width: 391px;
+  width: 401px;
   height: 63px;
   align-items: center;
   justify-content: center;
@@ -3075,7 +3075,7 @@
   position: absolute;
   width: 4px;
   height: 265px;
-  top: 247px;
+  top: 237px;
   left: 5px;
 }
 
