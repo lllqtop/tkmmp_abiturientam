@@ -2894,13 +2894,13 @@
 .div-wrapper .frame-4 {
   display: flex;
   width: 401px;
-  height: 73px;
+  height: 83px;
   align-items: center;
   justify-content: center;
   gap: 10px;
   padding: 10px;
   position: absolute;
-  top: 159px;
+  top: 179px;
   left: 758px;
   background-color: #ededed;
   border-radius: 20px;
