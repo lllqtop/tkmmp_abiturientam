@@ -158,7 +158,7 @@
 
 .div-wrapper .TKMMP-it {
   position: absolute;
-  width: 257px;
+  width: 657px;
   height: 39px;
   top: 220px;
   left: 713px;
@@ -2894,7 +2894,7 @@
 .div-wrapper .frame-4 {
   display: flex;
   width: 401px;
-  height: 63px;
+  height: 93px;
   align-items: center;
   justify-content: center;
   gap: 10px;
@@ -3170,7 +3170,7 @@
   width: 204px;
   height: 39px;
   top: 59px;
-  left: 619px;
+  left: 589px;
   font-weight: 900;
   color: #000000;
   font-size: 32px;
@@ -3184,7 +3184,7 @@
   width: 500px;
   height: 39px;
   top: 149px;
-  left: 619px;
+  left: 589px;
   font-weight: 900;
   color: #000000;
   font-size: 32px;
@@ -3211,7 +3211,7 @@
 .div-wrapper .text-wrapper-96 {
   width: 258px;
   top: 107px;
-  left: 619px;
+  left: 589px;
   color: #878787;
   position: absolute;
   height: 24px;
@@ -3228,7 +3228,7 @@
   width: 258px;
   height: 24px;
   top: 195px;
-  left: 619px;
+  left: 589px;
   font-weight: 800;
   font-style: italic;
   color: #878787;
