@@ -156,6 +156,20 @@
   line-height: 30px;
 }
 
+.div-wrapper .TKMMP-it {
+  position: absolute;
+  width: 257px;
+  height: 39px;
+  top: 220px;
+  left: 713px;
+  font-weight: 800;
+  color: #878787;
+  font-size: 32px;
+  line-height: normal;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+}
+
 .div-wrapper .overlap-2 {
   position: absolute;
   width: 1090px;
