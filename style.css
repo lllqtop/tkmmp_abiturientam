@@ -164,7 +164,7 @@
   left: 713px;
   font-weight: 800;
   color: #878787;
-  font-size: 32px;
+  font-size: 28px;
   line-height: normal;
   font-family: "Inter", Helvetica;
   letter-spacing: 0;
@@ -2894,7 +2894,7 @@
 .div-wrapper .frame-4 {
   display: flex;
   width: 401px;
-  height: 83px;
+  height: 73px;
   align-items: center;
   justify-content: center;
   gap: 10px;
