@@ -508,7 +508,7 @@
   position: absolute;
   width: 357px;
   height: 96px;
-  top: 0;
+  top: -20;
   left: 0;
   font-weight: 800;
   color: #000000;
@@ -2894,7 +2894,7 @@
 .div-wrapper .frame-4 {
   display: flex;
   width: 401px;
-  height: 93px;
+  height: 83px;
   align-items: center;
   justify-content: center;
   gap: 10px;
